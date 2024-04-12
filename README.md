@@ -1,3 +1,6 @@
+- 效果图
+  - <img src="calculator.jpg" alt="drawing" style="width:170px;height: 300px"/>
+
 - 技术依赖
   - dioxus，它让制作各种终端的图形化程序变得简单，特别是对html元素+css的组合，因为这样的组合，不用花大量时间去学习不同端的页面元素，布局和响应。极大减轻开发负担。
   - WebAssembly，初步学习中，会尽快加入到此计算器的实现中
